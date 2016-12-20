@@ -1,12 +1,10 @@
-# Weetley
-Find out the local weather conditions easily
-
 ## Instalation
-- clone repository and make your local copy
+- clone repository
 - open **index.html** in your browser
 
-## For further development 
+The weather icons are limited. And it was a lot of work to map each icon. So I have grouped them based on Clouds, Rain, Thunderstorm, Snow, Drizzle, Clear, Sunny.
+
+## Development 
 - install [node.js](https://nodejs.org/en/)
 - install dependencies with `$ npm install`
-- run `$ grunt watch` to process changes in main.less file
-- run `$ browserify src/js/main.js -o dist/js/bundle.js` to process changes in main.js
+- run `$ grunt watch` to process changes file
