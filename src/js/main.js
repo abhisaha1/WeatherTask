@@ -111,7 +111,10 @@ $(function() {
         return prefix + icon;
     };
 
+    /** 
+     * addTitle(city, type) 
+     * type - current/forecast
+     * */
     addTile('Berlin','current');
     addTile('Hamburg','forecast');
-    // addTile('Prague', 35, '');
 });
