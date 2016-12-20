@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'weathericons';
+  src: url('../font/Weather&Time.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.wi {
+  display: inline-block;
+  font-family: 'weathericons';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wi-sunny:before {
+  content: "A";
+}
+.wi-clouds:before {
+  content: "C";
+}
+.wi-thunderstorm:before {
+  content: "U";
+}
+.wi-drizzle:before {
+  content: "W";
+}
+.wi-rain:before {
+  content: "S";
+}
+.wi-snow:before {
+  content: "o";
+}
+.wi-clear:before {
+  content: "A";
+}

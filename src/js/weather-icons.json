@@ -1,0 +1,23 @@
+{
+  "Clouds": {
+    "icon":"wi-clouds"
+  },
+  "Rain": {
+    "icon":"wi-rain"
+  },
+  "Thunderstorm": {
+    "icon":"wi-thunderstorm"
+  },
+  "Snow": {
+    "icon":"wi-snow"
+  },
+  "Drizzle": {
+    "icon":"wi-drizzle"
+  },
+  "Clear": {
+    "icon":"wi-clear"
+  },
+  "Sunny": {
+    "icon":"wi-sunny"
+  },
+}
